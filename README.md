@@ -37,8 +37,14 @@ Trabajo en *Compras de Electrónica en El Corte Inglés.*
   
 ## Actualmente me estoy formando en:
     
-   <img>![azure](https://user-images.githubusercontent.com/72794927/209656112-63154dca-abe6-4ef6-8faa-d51873e619d9.svg)</img> 
-   <img>![react](https://user-images.githubusercontent.com/72794927/209655766-9500bded-8320-4748-9a2c-dcbbd7ee8d4f.svg)</img> 
-   <img>![aws](https://user-images.githubusercontent.com/72794927/209655945-fd70596e-7d14-40c3-b110-5012ba682632.svg)</img> 
+   ![azure](https://user-images.githubusercontent.com/72794927/209656112-63154dca-abe6-4ef6-8faa-d51873e619d9.svg)
+   ![react](https://user-images.githubusercontent.com/72794927/209655766-9500bded-8320-4748-9a2c-dcbbd7ee8d4f.svg)
+   ![aws](https://user-images.githubusercontent.com/72794927/209655945-fd70596e-7d14-40c3-b110-5012ba682632.svg) 
+ 
+## Contacta conmigo
+
+[![LinkedIn](https://user-images.githubusercontent.com/72794927/209658574-f3e07b1a-cd63-4f30-b15d-31aafc00e397.svg)](https://es.linkedin.com/in/jorge-de-toro-695b90bb)
+
+
  
 
