@@ -16,7 +16,7 @@
 # Actualmente:
 
 Full Stack Developer:
-  - Proyecto academía Online con geolocalización de profesores para la empresa Inetum (octubre 22 - diciembre 22).
+  - Proyecto academia Online con geolocalización de profesores para la empresa Inetum (octubre 22 - diciembre 22).
   - Creación de un layout de tienda online (HTML,CSS).
   - Creación de un carrito de compras (HTML, Bootstrap, Vanilla JS).
   - Creación de un blog dinámico en Angular. (HTML,CSS,JS y TypeScript).
