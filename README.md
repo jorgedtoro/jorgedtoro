@@ -15,6 +15,18 @@
 
 # Actualmente:
 
+Full Stack Developer:
+  - Proyecto academía Online con geolocalización de profesores para la empresa Inetum (octubre 22 - diciembre 22).
+  - Creación de un layout de tienda online (HTML,CSS).
+  - Creación de un carrito de compras (HTML, Bootstrap, Vanilla JS).
+  - Creación de un blog dinámico en Angular. (HTML,CSS,JS y TypeScript).
+  - Creación de una userAPP con conexión a API REST en angular.
+  - Creación de una API REST con MongoDB, NodeJS y Express.
+  - Creación de una API REST con NodeJs, Express, y MySQL.
+  
+  En progreso: 
+  - Creación web CV personal.
+  
 Trabajo en *Compras de Electrónica en El Corte Inglés.*
 
   - 💻 Programador (Python, VB y SAS) y analista de datos.
