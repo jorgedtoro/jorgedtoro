@@ -26,7 +26,7 @@ Full Stack Developer:
   
   ⭐ Mi CV Web:
   - Aplicación desarrollada con Angular, TypeScript, Sass y Node JS.
-  -![AppCV](https://jorgedetoro.netlify.app/)
+    [AppCV](https://jorgedetoro.netlify.app/)
   
 Trabajo en *Compras de Electrónica en El Corte Inglés.*
 
