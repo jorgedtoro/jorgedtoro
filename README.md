@@ -24,9 +24,9 @@ Full Stack Developer:
   - Creación de una API REST con MongoDB, NodeJS y Express.
   - Creación de una API REST con NodeJs, Express, y MySQL.
   
-  Mi CV Web:
+  ⭐ Mi CV Web:
   - Aplicación desarrollada con Angular, TypeScript, Sass y Node JS.
-  -[! AppCV](https://jorgedetoro.netlify.app/)
+  -![AppCV](https://jorgedetoro.netlify.app/)
   
 Trabajo en *Compras de Electrónica en El Corte Inglés.*
 
