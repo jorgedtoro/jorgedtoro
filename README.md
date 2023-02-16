@@ -17,6 +17,7 @@
 
 Full Stack Developer:
   - Proyecto academia Online con geolocalización de profesores para la empresa Inetum (octubre 22 - diciembre 22).
+  - Creación de un gestor de tareas (ToDo) con CRUD en firebase, login y acceso con cuenta Google.
   - Creación de un layout de tienda online (HTML,CSS).
   - Creación de un carrito de compras (HTML, Bootstrap, Vanilla JS).
   - Creación de un blog dinámico en Angular. (HTML,CSS,JS y TypeScript).
