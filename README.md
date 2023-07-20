@@ -13,7 +13,8 @@
 
 ---
 
-# Actualmente:
+# Actualmente:  
+
 Trabajo como jefe de proyecto (Full Stack Developer) en Alten  :
   Proyecto  .NET para el ICAA. 
   - Mantenimimiento y desarrollo de sus dos aplicaciones: La sede electrónica (ASP.NET y C#) y su aplicación de escritorio (Vb.net, C#) ambas conectadas mediante   un modelo de base relacional en SQL Server.
