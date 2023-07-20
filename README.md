@@ -14,8 +14,13 @@
 ---
 
 # Actualmente:
+Trabajo como jefe de proyecto (Full Stack Developer) en Alten  :
+  Proyecto  .NET para el ICAA. 
+  - Mantenimimiento y desarrollo de sus dos aplicaciones: La sede electrónica (ASP.NET y C#) y su aplicación de escritorio (Vb.net, C#) ambas conectadas mediante   un modelo de base relacional en SQL Server.
 
 Full Stack Developer:
+  - Desarrollos en Sede Electrónica del ICAA. (ASP.NET y C#)
+  - Desarrollos en aplicación de escritorio del ICAA. (Vb.net, C#)
   - Proyecto academia Online con geolocalización de profesores para la empresa Inetum (octubre 22 - diciembre 22).
   - Creación de un gestor de tareas (ToDo) con CRUD en firebase, login y acceso con cuenta Google.
   - Creación de un layout de tienda online (HTML,CSS).
@@ -28,8 +33,9 @@ Full Stack Developer:
   ⭐ Mi CV Web:
   - Aplicación desarrollada con Angular, TypeScript, Sass y Node JS.
     [AppCV](https://jorgedetoro.netlify.app/)
-  
-Trabajo en *Compras de Electrónica en El Corte Inglés.*
+
+
+He trabajado casi 9 años en *Compras de Electrónica en El Corte Inglés.*
 
   - 💻 Programador (Python, VB y SAS) y analista de datos.
   - 🏷 Pricing Manager.
