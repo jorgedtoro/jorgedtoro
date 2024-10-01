@@ -9,57 +9,50 @@
 🥊 Me apasiona el deporte: Boxeo y pádel especialmente. Snowboard en invierno.  
 📚 Por último, devoro libros y disfruto jugando al ajedrez.  
 
-😜 Me encanta bromear, seguramente algo encuentres en este repositorio que te recuerde a un 🤡  
 
 ---
 
 # Actualmente:  
 
 Trabajo como jefe de proyecto (Full Stack Developer) en Alten  :
-  Proyecto  .NET para el ICAA. 
+ ### Proyecto .NET para el Instituto de la Cinematografía y de las Artes Audiovisuales (ICAA). 
+  - Project Lead
+  - Senior Full Stack Developer
   - Mantenimimiento y desarrollo de sus dos aplicaciones: La sede electrónica (ASP.NET y C#) y su aplicación de escritorio (Vb.net, C#) ambas conectadas mediante   un modelo de base relacional en SQL Server.
 
-Full Stack Developer:
-  - Desarrollos en Sede Electrónica del ICAA. (ASP.NET y C#)
-  - Desarrollos en aplicación de escritorio del ICAA. (Vb.net, C#)
-  - Proyecto academia Online con geolocalización de profesores para la empresa Inetum (octubre 22 - diciembre 22).
-  - Creación de un gestor de tareas (ToDo) con CRUD en firebase, login y acceso con cuenta Google.
-  - Creación de un layout de tienda online (HTML,CSS).
-  - Creación de un carrito de compras (HTML, Bootstrap, Vanilla JS).
-  - Creación de un blog dinámico en Angular. (HTML,CSS,JS y TypeScript).
-  - Creación de una userAPP con conexión a API REST en angular.
-  - Creación de una API REST con MongoDB, NodeJS y Express.
-  - Creación de una API REST con NodeJs, Express, y MySQL.
+ ### Proyecto JAVA para el Ministerio de Cultura Subdirección del libro.
+  - Project Lead
   
-  ⭐ Mi CV Web:
+ ### ⭐ Mi CV Web:
   - Aplicación desarrollada con Angular, TypeScript, Sass y Node JS.
     [AppCV](https://jorgedetoro.netlify.app/)
 
 
-He trabajado casi 9 años en *Compras de Electrónica en El Corte Inglés.*
+ ### He trabajado casi 9 años en *Compras de Electrónica en El Corte Inglés.*
 
   - 💻 Programador (Python, VB y SAS) y analista de datos.
   - 🏷 Pricing Manager.
   - 🔎 Senior Merchandiser.
 
 
-## Mis cursos recientes para paliar mi adicción:
+### Mis cursos recientes para paliar mi adicción:
 
  - Master Full Stack Developer (UNIR) Marzo 2022 a Diciembre 2022.  
  - Master Data Science (UNED) Enero 2020 - Julio 2021.  
  
  ___
 
-## Mis próximas andaduras:
+## Publicaciones:
 
-  - Creación de curso VBA.
-  - Creación de curso HTML, CSS y Javascript
-  - Creación de curso en Angular
+   He publicado dos libros sobre JavaScript:
+
+  - [JavaScript Guía para aprender](https://www.amazon.es/completa-aprender-JavaScript-manera-eficaz/dp/B0DHCZ7KC7/ref=sr_1_1)
+  - [JavaScript avanzado](https://www.amazon.es/JavaScript-excelencia-programaci%C3%B3n-funcional-aplicaciones-ebook/dp/B0DHV68TFC/ref=sr_1_1)
   
 ## Actualmente me estoy formando en:
     
-   ![azure](https://user-images.githubusercontent.com/72794927/209656112-63154dca-abe6-4ef6-8faa-d51873e619d9.svg)
-   ![react](https://user-images.githubusercontent.com/72794927/209655766-9500bded-8320-4748-9a2c-dcbbd7ee8d4f.svg)
+   ![react](https://user-images.githubusercontent.com/72794927/209655766-9500bded-8320-4748-9a2c-dcbbd7ee8d4f.svg)  
+   
    ![aws](https://user-images.githubusercontent.com/72794927/209655945-fd70596e-7d14-40c3-b110-5012ba682632.svg) 
  
 ## Contacta conmigo
