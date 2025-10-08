@@ -53,7 +53,7 @@
 <p align="center">
   <!-- GitHub Stats -->
   <img height="165" alt="Stats" 
-       src="https://github-readme-stats.vercel.app/api?username=jorgedetoro&show_icons=true&hide_title=true&theme=transparent&rank_icon=github" />
+       src="https://github-readme-stats.vercel.app/api?username=jorgedtoro&show_icons=true&hide_title=true&theme=transparent&rank_icon=github" />
   <img height="165" alt="Top Langs" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgedetoro&layout=compact&theme=transparent" />
 </p>
@@ -66,11 +66,11 @@
 
 <!-- Pinned repos (opcional; cambia owner/repo si hace falta) -->
 <p align="center">
-  <a href="https://github.com/jorgedetoro/SaasProjectBack">
+  <a href="https://github.com/jorgedtoro/SaasProjectBack">
     <img alt="Pinned - Backend" 
          src="https://github-readme-stats.vercel.app/api/pin/?username=jorgedetoro&repo=SaasProjectBack&theme=transparent" />
   </a>
-  <a href="https://github.com/jorgedetoro/SaasProjectFront">
+  <a href="https://github.com/jorgedtoro/SaasProjectFront">
     <img alt="Pinned - Frontend" 
          src="https://github-readme-stats.vercel.app/api/pin/?username=jorgedetoro&repo=SaasProjectFront&theme=transparent" />
   </a>
