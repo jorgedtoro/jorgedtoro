@@ -55,24 +55,24 @@
   <img height="165" alt="Stats" 
        src="https://github-readme-stats.vercel.app/api?username=jorgedtoro&show_icons=true&hide_title=true&theme=transparent&rank_icon=github" />
   <img height="165" alt="Top Langs" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgedetoro&layout=compact&theme=transparent" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgedtoro&layout=compact&theme=transparent" />
 </p>
 
 <p align="center">
   <!-- Streak -->
   <img height="180" alt="Streak" 
-       src="https://streak-stats.demolab.com?user=jorgedetoro&theme=transparent&hide_border=false" />
+       src="https://streak-stats.demolab.com?user=jorgedtoro&theme=transparent&hide_border=false" />
 </p>
 
 <!-- Pinned repos (opcional; cambia owner/repo si hace falta) -->
 <p align="center">
   <a href="https://github.com/jorgedtoro/SaasProjectBack">
     <img alt="Pinned - Backend" 
-         src="https://github-readme-stats.vercel.app/api/pin/?username=jorgedetoro&repo=SaasProjectBack&theme=transparent" />
+         src="https://github-readme-stats.vercel.app/api/pin/?username=jorgedtoro&repo=SaasProjectBack&theme=transparent" />
   </a>
   <a href="https://github.com/jorgedtoro/SaasProjectFront">
     <img alt="Pinned - Frontend" 
-         src="https://github-readme-stats.vercel.app/api/pin/?username=jorgedetoro&repo=SaasProjectFront&theme=transparent" />
+         src="https://github-readme-stats.vercel.app/api/pin/?username=jorgedtoro&repo=SaasProjectFront&theme=transparent" />
   </a>
 </p>
 
