@@ -1,0 +1,48 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Jorge de Toro — Project Lead & Senior Full-Stack</title>
+  <desc id="desc">Banner con gradiente moderno en tonos rosa, morado y rojo.</desc>
+
+  <!-- fondo -->
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ff3d6e"/>
+      <stop offset="50%" stop-color="#a21caf"/>
+      <stop offset="100%" stop-color="#ef4444"/>
+    </linearGradient>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+    </pattern>
+
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" fill="url(#g)"/>
+  <rect width="1200" height="360" fill="url(#grid)"/>
+
+  <!-- formas orgánicas -->
+  <g opacity="0.25" filter="url(#glow)">
+    <circle cx="1040" cy="60" r="140" fill="white"/>
+    <circle cx="120" cy="320" r="120" fill="white"/>
+    <circle cx="540" cy="200" r="90" fill="white"/>
+  </g>
+
+  <!-- texto -->
+  <g fill="#ffffff">
+    <text x="60" y="150" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell" font-weight="800" font-size="48">
+      Jorge de Toro
+    </text>
+    <text x="60" y="200" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell" font-weight="600" font-size="24" opacity="0.95">
+      project lead & senior full-stack developer @ ALTEN
+    </text>
+    <text x="60" y="240" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell" font-size="18" opacity="0.9">
+      .NET · React · Next.js · Angular · SQL Server · PostgreSQL · CI/CD · arquitectura limpia
+    </text>
+  </g>
+</svg>
