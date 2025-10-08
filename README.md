@@ -1,64 +1,86 @@
-## Hi there 👋
+<!-- banner -->
+<p align="center">
+  <img src="./banner.svg" alt="Jorge de Toro — Project Lead & Senior Full-Stack" width="100%" />
+</p>
 
-### Soy Jorge.  
+<h1 align="center">hola, soy jorge (coke) 👋</h1>
 
-▶  Me encanta crear cosas y diseñar.  
-💻 Mi pasión por la programación me ha llevado por el mundo del Data Science y el desarrollo web.  
-🧛‍♂️ Soy una persona sociable que le encanta trabajar en equipo y aprender en todo momento.  
-🧙‍♂️ Mi curiosidad me lleva a estar constantemente formándome en las últimas novedades tecnológicas.  
-🥊 Me apasiona el deporte: Boxeo y pádel especialmente. Snowboard en invierno.  
-📚 Por último, devoro libros y disfruto jugando al ajedrez.  
+<p align="center">
+  <a href="https://es.linkedin.com/in/jorge-de-toro-695b90bb">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jorge--de--toro-0A66C2?logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://jorgedetoro.netlify.app/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-CV%20Web-111111?logo=vercel&logoColor=white">
+  </a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=jorgedetoro&style=flat">
+</p>
 
+## qué hago ahora
+
+- **project lead** & **senior full-stack** en **ALTEN**
+- proyectos públicos con **.NET / C# / SQL Server / Angular / React**
+- foco en **arquitectura**, **tests**, **ci/cd**, **rendimiento** y **dx**
+
+## en qué me estoy formando
+
+- **next.js** (app router, rsc, server actions, edge)
+- **react** avanzado (tanstack query, zod, patrones de hooks, performance)
+- **clean architecture**, **ddd**, **tdd**, **sonarqube**
+
+## toolbox
+
+**backend:** .net 6/7/8, c#, asp.net, node, express  
+**frontend:** react, next.js, angular, typescript, vite, tailwind, shadcn/ui  
+**data:** sql server, postgresql, ef core, dapper  
+**devops:** docker, github actions / jenkins, flyway, sonar  
+**otras:** saml/cl@ve, portafirmas, notifica, jasper/office interop
+
+## proyectos destacados
+
+- **icaa — sede electrónica**: refactor de formularios complejos, firma/pagos, optimizaciones SQL.  
+- **cultura — subdirección del libro**: servicios java (spring/tomcat), reporting, automatización ETL.  
+- **teseo**: despliegues, ws firmable/no firmable, migraciones y entornos.
+
+## publicaciones
+
+- 📘 [javascript: guía para aprender](https://www.amazon.es/completa-aprender-JavaScript-manera-eficaz/dp/B0DHCZ7KC7)  
+- 📗 [javascript avanzado: el camino de la excelencia](https://www.amazon.es/JavaScript-excelencia-programaci%C3%B3n-funcional-aplicaciones-ebook/dp/B0DHV68TFC)
 
 ---
 
-# Actualmente:  
+## métricas
 
-Trabajo como jefe de proyecto (Full Stack Developer) en Alten  :
- ### Proyecto .NET para el Instituto de la Cinematografía y de las Artes Audiovisuales (ICAA). 
-  - Project Lead
-  - Senior Full Stack Developer
-  - Mantenimimiento y desarrollo de sus dos aplicaciones: La sede electrónica (ASP.NET y C#) y su aplicación de escritorio (Vb.net, C#) ambas conectadas mediante   un modelo de base relacional en SQL Server.
+<p align="center">
+  <!-- GitHub Stats -->
+  <img height="165" alt="Stats" 
+       src="https://github-readme-stats.vercel.app/api?username=jorgedetoro&show_icons=true&hide_title=true&theme=transparent&rank_icon=github" />
+  <img height="165" alt="Top Langs" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgedetoro&layout=compact&theme=transparent" />
+</p>
 
- ### Proyecto JAVA para el Ministerio de Cultura Subdirección del libro.
-  - Project Lead
-  
- ### ⭐ Mi CV Web:
-  - Aplicación desarrollada con Angular, TypeScript, Sass y Node JS.
-    [AppCV](https://jorgedetoro.netlify.app/)
+<p align="center">
+  <!-- Streak -->
+  <img height="180" alt="Streak" 
+       src="https://streak-stats.demolab.com?user=jorgedetoro&theme=transparent&hide_border=false" />
+</p>
 
+<!-- Pinned repos (opcional; cambia owner/repo si hace falta) -->
+<p align="center">
+  <a href="https://github.com/jorgedetoro/SaasProjectBack">
+    <img alt="Pinned - Backend" 
+         src="https://github-readme-stats.vercel.app/api/pin/?username=jorgedetoro&repo=SaasProjectBack&theme=transparent" />
+  </a>
+  <a href="https://github.com/jorgedetoro/SaasProjectFront">
+    <img alt="Pinned - Frontend" 
+         src="https://github-readme-stats.vercel.app/api/pin/?username=jorgedetoro&repo=SaasProjectFront&theme=transparent" />
+  </a>
+</p>
 
- ### He trabajado casi 9 años en *Compras de Electrónica en El Corte Inglés.*
+---
 
-  - 💻 Programador (Python, VB y SAS) y analista de datos.
-  - 🏷 Pricing Manager.
-  - 🔎 Senior Merchandiser.
+### contacto
 
+- 📫 **linkedin:** [jorge de toro](https://es.linkedin.com/in/jorge-de-toro-695b90bb)  
+- 🌐 **cv web:** [jorgedetoro.netlify.app](https://jorgedetoro.netlify.app/)
 
-### Mis cursos recientes para paliar mi adicción:
-
- - Master Full Stack Developer (UNIR) Marzo 2022 a Diciembre 2022.  
- - Master Data Science (UNED) Enero 2020 - Julio 2021.  
- 
- ___
-
-## Publicaciones:
-
-   He publicado dos libros sobre JavaScript:
-
-  - [JavaScript Guía para aprender](https://www.amazon.es/completa-aprender-JavaScript-manera-eficaz/dp/B0DHCZ7KC7/ref=sr_1_1)
-  - [JavaScript avanzado](https://www.amazon.es/JavaScript-excelencia-programaci%C3%B3n-funcional-aplicaciones-ebook/dp/B0DHV68TFC/ref=sr_1_1)
-  
-## Actualmente me estoy formando en:
-    
-   ![react](https://user-images.githubusercontent.com/72794927/209655766-9500bded-8320-4748-9a2c-dcbbd7ee8d4f.svg)  
-   
-   ![aws](https://user-images.githubusercontent.com/72794927/209655945-fd70596e-7d14-40c3-b110-5012ba682632.svg) 
- 
-## Contacta conmigo
-
-[![LinkedIn](https://user-images.githubusercontent.com/72794927/209658574-f3e07b1a-cd63-4f30-b15d-31aafc00e397.svg)](https://es.linkedin.com/in/jorge-de-toro-695b90bb)
-
-
- 
-
+> ⚡ disfruto creando productos útiles, aprendiendo cada día y liderando equipos que aman programar.
