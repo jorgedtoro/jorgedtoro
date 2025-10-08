@@ -65,6 +65,7 @@
 </p>
 
 <!-- Pinned repos (opcional; cambia owner/repo si hace falta) -->
+<!-- 
 <p align="center">
   <a href="https://github.com/jorgedtoro/SaasProjectBack">
     <img alt="Pinned - Backend" 
@@ -75,7 +76,7 @@
          src="https://github-readme-stats.vercel.app/api/pin/?username=jorgedtoro&repo=SaasProjectFront&theme=transparent" />
   </a>
 </p>
-
+-->
 ---
 
 ### contacto
